@@ -12,7 +12,7 @@ function App() {
         target="_blank"
         rel="noreferrer"
       >
-        GitHub repository
+        @GitHub repository
       </a>
     </div>
   );
