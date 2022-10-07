@@ -1,6 +1,5 @@
 import "./App.css";
 import Search from "./Search";
-import axios from "axios";
 
 function App() {
   return (
